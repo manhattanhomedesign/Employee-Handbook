@@ -8,6 +8,6 @@ This handbook also offers us an opportunity to clarify who we actually are as a 
 If you’re reading this just after joining the company, it’s particularly on you, actually. It’s harder for us slowly-boiled frogs who’ve been with MHD for a while to spot the broken ways. Please take advantage of that glorious, shiny ignorance of being new, and question things.
 
 ## Sections
-* [MHD Is You](https://github.com/manhattanhomedesign/Employee-Handbook/blob/master/mhd-is-you)
+* [MHD Is You](https://github.com/manhattanhomedesign/Employee-Handbook/blob/master/mhd-is-you.md)
 * [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
 * [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
