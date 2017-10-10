@@ -1,4 +1,4 @@
-# MHD Is You
+# MHD is You 
 
 Everyone working at MHD represents MHD. When a customer gets a response from Sam on Customer Support, Sam is MHD. When a customer reads a tweet by Ram that we have a new Spring Collection, Ram is MHD. When Iffath from Marketing looks at a message from a customer on Houzz, Iffath is MHD. In those situations, all the other designations, role-responsibilities are secondary. What’s right in front of someone in a time of need is what matters.
 
